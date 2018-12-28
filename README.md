@@ -58,4 +58,6 @@ baggingPU.py: 代码来自https://github.com/roywright/pu_learning/blob/master/b
 
 主要使用的是positive-unlabeled-learning的方法解决数据不平衡的问题，这里采用解决pu-learning问题的两种主流算法：pu-bagging和基于two-step思想的算法。
 
+### 其他
+
 更详细的内容请移步本人博客：https://blog.csdn.net/quiet_girl/article/details/85259086
